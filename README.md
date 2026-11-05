@@ -182,6 +182,7 @@ Example snapshot name:
 ```text
 Clean Kali - Network Setup
 ```
+![](5-screenshot-kali-snapshot-.png)
 
 The snapshot represents the clean baseline of the laboratory.
 
